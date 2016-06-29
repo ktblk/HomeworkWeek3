@@ -32,7 +32,7 @@ end
 sandy = Person.new("sandy", "blonde")
 joe = Person.new("joe","brown")
 tim = Person.new("Katie", "red")
-#made you riot, because we know what you do on weekends
+#made you riot! Again!
 sandy.save
 joe.save
 tim.save
