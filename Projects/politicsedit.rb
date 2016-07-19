@@ -1,3 +1,5 @@
+#rafael
+#edit made by rafael
 def call_the_cops #method for any time the user refuses to go along with Frank's crazy.  implements a random strategy for the comptuer choosing whether or not the user... well... ends up like Zoe Barnes
   puts "----"
   puts "\n🇺🇸 What a pity.  And here I thought we could work together."
